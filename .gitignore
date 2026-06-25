@@ -1,0 +1,5 @@
+game
+highscore.txt
+*.o
+*.exe
+.vscode/
